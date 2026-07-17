@@ -1,8 +1,8 @@
 # 🎵 Roblox Music Codes
 
-Сборник кодов для музыки в Roblox. Копируй и вставляй в свой будильник или радио!
+Сборник кодов для музыки в Roblox.
 
-Collection of music codes for Roblox. Copy and paste into your alarm or radio!
+Collection of music codes for Roblox.
 
 ---
 
