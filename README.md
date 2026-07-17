@@ -1,0 +1,173 @@
+# 🎵 Roblox Music Codes
+
+Сборник кодов для музыки в Roblox. Копируй и вставляй в свой будильник или радио!
+
+Collection of music codes for Roblox. Copy and paste into your alarm or radio!
+
+---
+
+## 🌐 Ссылки / Links
+
+| | |
+|---|---|
+| **Website** | https://x1e7.github.io/Music-Codes-For-Roblox/ |
+| **Roblox Community** | https://www.roblox.com/communities/832610078 |
+| **GitHub** | https://github.com/x1e7/Music-Codes-For-Roblox |
+
+---
+
+## Статистика / Statistics
+
+| Показатель / Metric | Значение / Value |
+|--------------------|------------------|
+| 🎵 Всего треков / Total tracks | 91 |
+| 📅 Последнее обновление / Last updated | 21.11.25 |
+| ➕ Добавлено кодов / Codes added | 11 |
+
+---
+
+## Теги / Tags
+
+`русские` `коды` `роблокс` `песня` `музыка` `фонк` `шансон`
+
+`russian` `codes` `roblox` `song` `music` `phonk` `chanson`
+
+---
+
+## 🎧 Категории / Categories
+
+| Категория / Category | Количество / Count |
+|---------------------|--------------------|
+| Песни / Songs | 68 |
+| Просто песни / Simple songs | 10 |
+| Разное / Miscellaneous | 6 |
+| Звуки / Sounds | 9 |
+
+---
+
+## Как пользоваться / How to use
+
+### 🇷🇺 Русский
+1. Перейди на [сайт](https://x1e7.github.io/Music-Codes-For-Roblox/)
+2. Найди нужную песню (поиск или фильтр по категориям)
+3. Нажми на карточку песни или на кнопку "Копировать"
+4. Вставь код в Roblox (радио и т.п.)
+
+### 🇬🇧 English
+1. Go to the [website](https://x1e7.github.io/Music-Codes-For-Roblox/)
+2. Find the desired song (search or filter by category)
+3. Click on the song card or the "Copy" button
+4. Paste the code into Roblox (radio, etc.)
+
+## 📋 Полный список песен и кодов
+
+### 🎵 Песни (68 шт.)
+
+| Код | Название |
+|------|----------|
+| 122925258674975 | Ona (Сошла с ума) |
+| 15689441943 | nMisaki - all back (Всё назад) |
+| 16831108393 | Blessed Mane - Death Is No More |
+| 6662833837 | nMisaki, zangel - stuppid (Phonk Remix) |
+| 16190783444 | nMisaki - Dubidubidu (Techno Remix) |
+| 15689456690 | nMisaki - still luvv |
+| 16662827998 | nMisaki - valentines day |
+| 15689457918 | nMisaki - Dream Girl (sped up) |
+| 15689454417 | nMisaki - Dream Girl |
+| 15689443891 | nMisaki - Just Dance |
+| 15689439126 | nMisaki - help me |
+| 16190759269 | nMisaki feat. kovalenkotroon - Cupcake |
+| 16662831303 | nMisaki - so espected |
+| 16662828917 | nMisaki, ITZTHATPLAYER - Just Meet Her |
+| 16662828462 | nMisaki - need you so much (ultra speed up) |
+| 15689440220 | nMisaki - stussy (sped up) |
+| 15689446558 | nMisaki - You Won’t Find |
+| 15689439895 | nMisaki - New Year |
+| 15689455911 | nMisaki - what about me |
+| 15689448876 | nMisaki - angel |
+| 16662834857 | nMisaki - let me rethink everything i’ve done |
+| 15689450511 | nMisaki - vibe |
+| 15689447739 | nMisaki - In Cosmos |
+| 15689454823 | nMisaki - Stussy |
+| 15689455025 | nMisaki - Only Up |
+| 86548858187541 | Lost Matrix |
+| 124261546737208 | midori_angeru |
+| 97527941489881 | yuki_io (Phonk) |
+| 99128910197696 | Mutilation 1.4 (Phonk) |
+| 85381156840384 | pon |
+| 132973772452511 | Moscow |
+| 90398320838813 | Я закричу на весь мир |
+| 138968496511779 | Montagem Dreske (Slowerd + Reverb) |
+| 105455532437858 | Run (Slowed Edit) |
+| 77567474947048 | Montagem Explosiva (Brasil Phonk) |
+| 138320681557839 | Toma (Brasil Phonk) |
+| 86399734003731 | Montagem Luna (Brasil Phonk) |
+| 130020237868405 | City Lightz PR Funk (COOL PHONK) |
+| 88538724491708 | pumkin () |
+| 97841988407875 | Twilight Syndrome/Manchausen (JUMPSTYLE !PHONK) |
+| 83712066133001 | Onda |
+| 104502712965303 | Неизвестная |
+| 134647289919930 | Hung_Cs`Long Time (Phonk) |
+| 74237376396534 | WISH (super slowed) |
+| 102871849566138 | Мама (Шансон) |
+| 128829488529265 | Меч Истины, что он всегда держал |
+| 116061123493999 | Пора прощаться (Шансон) |
+| 86131294387909 | Осень любви (Шансон) |
+| 128186476216166 | Hardstyle |
+| 73180347730720 | Нас не догонят |
+| 108146189485507 | Закрой за мной дверь |
+| 133101411205559 | Миа Море |
+| 86123475589420 | evening (Loud) |
+| 139382161857463 | Хорошо. |
+| 109420952262721 | Sigma Boy (German) |
+| 81876613463341 | Tokyo Sigma |
+| 137723036891447 | Winter Phonk |
+| 137940913516066 | Гимн Богине |
+| 81477881808390 | Vibe |
+| 74275691005778 | Ты такая красивая |
+| 107162683129577 | Внутри |
+| 103361778399673 | Мы не остались |
+| 90958749946168 | Вместе, но не вдвоём |
+| 116336442458461 | Тебя не было |
+| 88581206138705 | Тишина |
+| 77242340604636 | Опомнись |
+
+### 🎹 Просто песни (10 шт.)
+
+| Код | Название |
+|------|----------|
+| 94375231252637 | Когда тебе плохо |
+| 116779312644285 | Городская энергия |
+| 137055165806718 | Летний Зной |
+| 127372521642322 | Внутренний свет |
+| 116346435896534 | Летний Берег |
+| 102843586577916 | Солнечный Праздник |
+| 73430730152137 | Солнечный Ветер |
+| 122683817904100 | Связь с природой |
+| 123391643444317 | Размышления о жизни |
+| 98350335992326 | Ночной город |
+
+### 📦 Разное (6 шт.)
+
+| Код | Название |
+|------|----------|
+| 118312420972032 | Без названия |
+| 87961778114450 | Без названия |
+| 105071005436611 | Без названия |
+| 82903365362727 | Без названия |
+| 114146182987305 | Без названия |
+| 88817047545496 | Без названия |
+
+### 🔊 Звуки (9 шт.)
+
+| Код | Название |
+|------|----------|
+| 138221067 | Siren |
+| 4913944646 | Призыв в долг |
+| 81933895820428 | Я не прячусь |
+| 104681451140312 | Восьмиклассница |
+| 6910191685 | Toilet... |
+| 17647322226 | Kerosene |
+| 91264378472516 | Никогда не открывают |
+| 95135972959372 | фраза Кузи из универа |
+| 135767270246264 | Здаров бандиты |

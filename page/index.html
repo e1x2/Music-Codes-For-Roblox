@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Roblox Music Codes — Все песни в одном месте</title>
+    <meta name="description" content="Коллекция кодов для музыки в Roblox. Копируй и вставляй в игру!">
+    <link rel="icon" type="image/png" href="favicon.png">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <div class="header">
+            <h1>Roblox Music Codes</h1>
+            <div class="header-buttons">
+                <a href="https://www.roblox.com/communities/832610078" target="_blank" rel="noopener noreferrer" class="btn">
+                    <i class="fab fa-roblox"></i> Наше сообщество
+                </a>
+                <a href="https://github.com/x1e7/Music-Codes-For-Roblox/issues/new?template=feedback.md" target="_blank" class="btn">
+                    <i class="fab fa-github"></i> Предложить код
+                </a>
+            </div>
+        </div>
+
+        <!-- Stats Card -->
+        <div class="card stats-card">
+            <div class="stats" id="stats">Загрузка данных...</div>
+        </div>
+
+        <!-- Search Section -->
+        <div class="card">
+            <div class="search-box">
+                <i class="fas fa-search"></i>
+                <input type="text" id="searchInput" placeholder="Поиск по названию или коду..." disabled>
+            </div>
+            <div class="filters" id="filters"></div>
+        </div>
+
+        <!-- Songs Container -->
+        <div id="songsContainer">
+            <div class="loading"><i class="fas fa-compact-disc fa-spin"></i> Загрузка песен...</div>
+        </div>
+
+        <!-- Footer -->
+        <div class="footer">
+            <p><i class="fas fa-headphones"></i> Наслаждайся музыкой в Roblox</p>
+            <p class="footer-links">
+                <a href="https://github.com/x1e7/Music-Codes-For-Roblox/issues/new?template=feedback.md" target="_blank">GitHub Issues</a>
+                <a href="https://www.roblox.com/communities/832610078" target="_blank">Roblox Community</a>
+            </p>
+        </div>
+    </div>
+
+    <button class="scroll-top" id="scrollTop" aria-label="Наверх">
+        <i class="fas fa-arrow-up"></i>
+    </button>
+    <div class="toast" id="toast">
+        <i class="fas fa-check-circle"></i> Код скопирован!
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
