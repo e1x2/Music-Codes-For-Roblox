@@ -12,7 +12,7 @@ Collection of music codes for Roblox.
 |---|---|
 | **Website** | https://x1e7.github.io/Music-Codes-For-Roblox/ |
 | **Roblox Community** | https://www.roblox.com/communities/832610078 |
-| **GitHub** | https://github.com/x1e7/Music-Codes-For-Roblox |
+| **GitHub** | https://github.com/e1x2/Music-Codes-For-Roblox |
 
 ---
 
