@@ -10,7 +10,7 @@ Collection of music codes for Roblox.
 
 | | |
 |---|---|
-| **Website** | https://x1e7.github.io/Music-Codes-For-Roblox/ |
+| **Website** | https://e1x2.github.io/Music-Codes-For-Roblox/ |
 | **Roblox Community** | https://www.roblox.com/communities/832610078 |
 | **GitHub** | https://github.com/e1x2/Music-Codes-For-Roblox |
 
@@ -48,13 +48,13 @@ Collection of music codes for Roblox.
 ## Как пользоваться / How to use
 
 ### 🇷🇺 Русский
-1. Перейди на [сайт](https://x1e7.github.io/Music-Codes-For-Roblox/)
+1. Перейди на [сайт](https://e1x2.github.io/Music-Codes-For-Roblox/)
 2. Найди нужную песню (поиск или фильтр по категориям)
 3. Нажми на карточку песни или на кнопку "Копировать"
 4. Вставь код в Roblox (радио и т.п.)
 
 ### 🇬🇧 English
-1. Go to the [website](https://x1e7.github.io/Music-Codes-For-Roblox/)
+1. Go to the [website](https://e1x2.github.io/Music-Codes-For-Roblox/)
 2. Find the desired song (search or filter by category)
 3. Click on the song card or the "Copy" button
 4. Paste the code into Roblox (radio, etc.)
